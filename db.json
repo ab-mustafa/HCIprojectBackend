@@ -1,0 +1,18 @@
+{
+  "Users": [
+    {
+      "ShortName": "t512vb",
+      "Password": "ABCD$1234",
+      "Email": "Abdallah.Mustafa@unb.ca",
+      "Full Name": "Abdallah Mustafa",
+      "CurrentScore": 99.3
+    },
+    {
+      "ShortName": "fg12vb",
+      "Password": "ABkk$154",
+      "Email": "Ali.Zaid@unb.ca",
+      "Full Name": "Ali ziad",
+      "CurrentScore": 99.3
+    }
+  ]
+}
